@@ -1,6 +1,6 @@
-# Python_Proyects
+# Python_Finance
 
-En este repositorio incluyo algunos de los proyectos que he realizado en Python. La tematica dichos proyectos es:Machine Learning, Manejo de datos y Estadistica. 
+Este es uno de los repositorios en los que muestro los proyectos que he realizado en Python. Se usan tecnicas de Estadistica, Manejo de Datos y Machine Learning. La tematica de la clase mostrada es de finanzas. Se implementan metodos que sirven para la valuacion de acciones.  
 
 En la clase finanzas.py tengo 3 modulos: beta, razones y lstm.
 
