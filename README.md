@@ -1,4 +1,4 @@
-# Python Finance: Regresion lineal
+# Python: Finanzas
 
 Este es uno de los repositorios en los que muestro los proyectos que he realizado en Python. Se usan tecnicas de Estadistica y Manejo de Datos. La tematica de la clase mostrada es de finanzas. Se implementan metodos que sirven para la valuacion de acciones.  
 
